@@ -1,6 +1,8 @@
 word_list = [
 'abruptly', 
 'absurd', 
+'anish',
+'beautiful',
 'abyss', 
 'affix', 
 'askew', 
